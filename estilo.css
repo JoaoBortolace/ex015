@@ -6,7 +6,6 @@ body {
 header {
     color: white;
     text-align: center;
-    margin: auto;
 }
 
 section {
@@ -22,7 +21,6 @@ footer {
     color: white;
     text-align: center;
     font: italic 12pt Arial;
-    margin: auto;
 }
 
 #botão {
